@@ -1,4 +1,4 @@
-# DoctorQue Booking System
+# Doctor Appointment Booking System
 
 This project is a Django-based booking system where users can book appointments with doctors. It utilizes a MySQL database to store information related to users, doctors, and bookings.
 
@@ -6,6 +6,10 @@ This project is a Django-based booking system where users can book appointments 
 
 - **Python 3.x** installed on your system.
 - **MySQL** installed and running.
+
+##Notice
+
+Please note that the project folder is getTicket. And other folders are apps that can be scaled in the future for users, doctors, and booking system.
 
 ## Setting Up the MySQL Database
 
