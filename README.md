@@ -7,7 +7,7 @@ This project is a Django-based booking system where users can book appointments 
 - **Python 3.x** installed on your system.
 - **MySQL** installed and running.
 
-##Notice
+## Notice
 
 Please note that the project folder is getTicket. And other folders are apps that can be scaled in the future for users, doctors, and booking system.
 
